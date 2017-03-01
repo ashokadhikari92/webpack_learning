@@ -1,1 +1,4 @@
-alert("hello once again!");
+
+import notification from './Notification';
+
+console.log(notification);
